@@ -6,7 +6,6 @@
   * [Using Your Gallery](web-app.md#using-your-gallery)
   * [Archive Timeline View](web-app.md#archive-timeline-view)
   * [Deleting Your Own Images](web-app.md#deleting-your-own-images)
-  * [Creating collections?](collections.md#what-are-collections)
   * [What's the Feed?](web-app.md#whats-the-feed)
   * [Image LeaderBoards and Rating](web-app.md#image-leaderboards-and-rating)
   * [The Map](web-app.md#the-map)
