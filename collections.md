@@ -12,32 +12,45 @@ Collections are a great way to organize and categorize your work in a streamline
 
 ## Where are my collections
 
+Your recently created collections can be found on your [profile](https://beta.mj-gallery.com/app/), or by clicking on the [Collections](https://beta.mj-gallery.com/app/collections/) shortcut in the navigation bar. 
+
 ![Navigation Bar Collections shortcut](./.gitbook/assets/nav_bar_collections.png)
 
-Your recently created collections can be found on your [profile](https://beta.mj-gallery.com/app/), or visit https://beta.mj-gallery.com/app/collections/ to view all created collections.
+
+## Creating a collection
 
 
-There are three main ways to set up a collection.
- * Manual jobs -  Pick individual images to move to a collection
- * Search Filters - Add all jobs that contain 1 or more keywords
+### Search Filters 
+Add all jobs that contain 1 or more specified keywords
+
+![Search Filter](/.gitbook/assets/Search_filter.png) 
+
+*note:* the above search filter will add for all prompts that contain either the words "Nikon" or "Canon".
+
+
+### Manual jobs 
+ Select individual images with the "image picker" tool to move to a collection
+
+![Search Filters](./.gitbook/assets/collection_manual_add.png)
+
+ 
  * Workspace collections - All jobs generated in a workspace are added to a collection
 
 
 ## Modify or remove collections
 
- Modify or remove collections from the [Collections](https://beta.mj-gallery.com/app/collections/) page
+Modify or remove collections from the [Collections](https://beta.mj-gallery.com/app/collections/) page
+
+
+### Edit existing collections
 
 ![Your Collections](/.gitbook/assets/collection_edit.png)
 
-
-Edit a collection
-
+### Remove existing collections
 
 ![Your Collections](/.gitbook/assets/Remove_collection.png)
 
-Additionally you can find an edit button inside individual collections by clicking the three dots at the top over the page. 
 
-![Your Collection edit button](.gitbook/assets/Your_collections_edit.png)
 
 ## Who can see my collections?
 Collections are not visible to other users who visit your [profile](https://beta.mj-gallery.com/app/) until published.
