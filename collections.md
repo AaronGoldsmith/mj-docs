@@ -19,22 +19,23 @@ Your recently created collections can be found on your [profile](https://beta.mj
 
 ## Creating a collection
 
+![Configure the settings](/.gitbook/assets/collection_edit_modal.png)
 
 ### Search Filters 
 Add all jobs that contain 1 or more specified keywords
+The following search filter will add for all prompts that contain either the words "Nikon" or "Canon".
 
 ![Search Filter](/.gitbook/assets/Search_filter.png) 
 
-*note:* the above search filter will add for all prompts that contain either the words "Nikon" or "Canon".
 
 
 ### Manual jobs 
- Select individual images with the "image picker" tool to move to a collection
+Select individual images with the "image picker" tool to move to a collection
 
 ![Search Filters](./.gitbook/assets/collection_manual_add.png)
 
  
- * Workspace collections - All jobs generated in a workspace are added to a collection
+ * Workspace collections [In Development] - All jobs generated in a workspace are added to a collection
 
 
 ## Modify or remove collections
@@ -48,7 +49,7 @@ Modify or remove collections from the [Collections](https://beta.mj-gallery.com/
 
 ### Remove existing collections
 
-![Your Collections](/.gitbook/assets/Remove_collection.png)
+![Your Collections](/.gitbook/assets/Remove_Collection.png)
 
 
 
