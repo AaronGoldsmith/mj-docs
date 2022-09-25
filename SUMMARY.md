@@ -4,7 +4,7 @@
 * [User Manual](user-manual.md)
 * [Frequently Asked Questions](FAQs.md)
 * [Imagine Parameters Illustrated](imagine-parameters.md)
-* [The Midjourney Web App](the-midjourney-web-app/README.md)
+* [The Midjourney Web App](web-app.md)
   * [Collections](the-midjourney-web-app/collections.md)
   * [Workspaces](the-midjourney-web-app/workspaces.md)
 * [Use Midjourney on your own Discord Server](use-midjourney-on-your-own-discord-server.md)
