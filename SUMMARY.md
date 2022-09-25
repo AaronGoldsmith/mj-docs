@@ -6,6 +6,7 @@
 * [Imagine Parameters Illustrated](imagine-parameters.md)
 * [The Midjourney Web App](web-app.md)
   * [Collections](collections.md)
+  * [Workspaces](workspaces.md)
 * [Use Midjourney on your own Discord Server](use-midjourney-on-your-own-discord-server.md)
 * [Content and Moderation](content-and-moderation-policy.md)
 * [Billing and Licensing](billing.md)
