@@ -43,13 +43,11 @@ Select individual images with the "image picker" tool to move to a collection
 Modify or remove collections from the [Collections](https://beta.mj-gallery.com/app/collections/) page
 
 
-### Edit existing collections
 
-![Your Collections](/.gitbook/assets/collection_edit.png)
+![Edit existing collections](/.gitbook/assets/collection_edit.png)
 
-### Remove existing collections
 
-![Your Collections](/.gitbook/assets/Remove_Collection.png)
+![Remove existing collections](/.gitbook/assets/Remove_Collection.png)
 
 
 
